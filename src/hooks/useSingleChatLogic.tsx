@@ -37,7 +37,7 @@ export const useSingleChatLogic = (
   chatAccessKey: string,
   httpUrl?: string
 ) => {
-  const host = httpUrl ? httpUrl : 'https://api.chatengine.io';
+  const host = httpUrl ? httpUrl : 'https://localhost:8080';
   const headers: ChatAuthHeaders = {
     'Public-Key': projectId,
     'Chat-ID': chatId,

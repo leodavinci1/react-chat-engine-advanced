@@ -82,7 +82,7 @@ export const ChildSocket: React.FC<Props> = (props: Props) => {
     }
   };
 
-  const wsUrl = props.wsUrl ? props.wsUrl : 'wss://api.chatengine.io';
+  const wsUrl = props.wsUrl ? props.wsUrl : 'wss://localhost:8080';
 
   return (
     <WebSocket
