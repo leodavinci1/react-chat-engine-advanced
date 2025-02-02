@@ -37,9 +37,9 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "react-chat-engine-advanced",
-  "author": "Adam La Morre",
-  "repository": "chatengine-io/react-chat-engine-advanced",
+  "name": "@leodavinci1/react-chat-engine-advanced",
+  "author": "Leonardo Cunha",
+  "repository": "leodavinci1/react-chat-engine-advanced",
   "module": "dist/react-chat-engine-advanced.esm.js",
   "size-limit": [
     {

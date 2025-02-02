@@ -7,7 +7,7 @@ interface NewChat {
 }
 
 export const getOrCreateChat = (
-  host: string = 'https://api.chatengine.io',
+  host: string = 'https://localhost:8080',
   headers: UserAuthHeaders,
   data: NewChat,
   callback: (chat: ChatObject) => void
