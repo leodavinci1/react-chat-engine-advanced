@@ -1,4 +1,6 @@
 {
+  "name": "@leodavinci1/react-chat-engine-advanced",
+  "description": "Forked version of react-chat-engine-advanced",
   "version": "0.1.28",
   "license": "MIT",
   "main": "dist/index.js",
@@ -37,7 +39,6 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "react-chat-engine-advanced",
   "author": "Adam La Morre",
   "repository": "chatengine-io/react-chat-engine-advanced",
   "module": "dist/react-chat-engine-advanced.esm.js",
