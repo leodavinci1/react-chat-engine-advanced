@@ -1,10 +1,20 @@
 {
-  "name": "@leodavinci1/react-chat-engine-advanced",
-  "description": "Forked version of react-chat-engine-advanced",
-  "version": "0.1.28",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
+    "name": "@leodavinci1/react-chat-engine-advanced",
+    "version": "1.0.0",
+    "description": "Your forked version of react-chat-engine-advanced",
+    "repository": {
+  "type": "git",
+  "url": "git+https://github.com/leodavinci1/react-chat-engine-advanced.git"
+},
+
+    "bugs": {
+      "url": "https://github.com/leodavinci1/react-chat-engine-advanced/issues"
+    },
+    "homepage": "https://github.com/leodavinci1/react-chat-engine-advanced#readme",
+  
   "files": [
     "dist",
     "src"
@@ -39,8 +49,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "author": "Adam La Morre",
-  "repository": "chatengine-io/react-chat-engine-advanced",
+  "author": "Leonardo Cunha",
   "module": "dist/react-chat-engine-advanced.esm.js",
   "size-limit": [
     {
