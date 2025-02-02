@@ -6,9 +6,10 @@
     "version": "1.0.0",
     "description": "Your forked version of react-chat-engine-advanced",
     "repository": {
-      "type": "git",
-      "url": "git+https://github.com/leodavinci1/react-chat-engine-advanced.git"
-    },
+  "type": "git",
+  "url": "git+https://github.com/leodavinci1/react-chat-engine-advanced.git"
+},
+
     "bugs": {
       "url": "https://github.com/leodavinci1/react-chat-engine-advanced/issues"
     },
